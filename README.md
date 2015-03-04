@@ -1,9 +1,9 @@
 # topicModelingPipeline
 
 ## Author
-David Folarin @ Cornell University 2015
-Under Megan French & Jeff Hancock
-Provides one line command for topic modeling using LDA
+David Folarin @ Cornell University 2015  
+Under Megan French & Jeff Hancock  
+Provides one line command for topic modeling using LDA  
 
 ## Requisites
 * Python 2.7
@@ -25,5 +25,5 @@ Note: Vowpal Wabbit depends on boost headers
 
 ## Usage
 
-python topicModelingPipeline.py <path to directory containing source files> <path to directory where output goes> <number of topics to generate> <number of passes>
+	python topicModelingPipeline.py <path to directory containing source files> <path to directory where output 	goes> <number of topics to generate> <number of passes>
 
