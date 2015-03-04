@@ -1,4 +1,4 @@
-# topicModelingPipeline
+# LDA-Pipeline
 
 ## Author
 David Folarin @ Cornell University 2015  
